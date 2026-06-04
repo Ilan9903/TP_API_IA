@@ -225,3 +225,5 @@ penguin-classifier-api/
 - Apprenti Concepteur Développeur d'Applications (CDA)
 - EPSI Bachelor SIN
 - Spécialisation DevOps & Full Stack
+
+### Dernière mise à jour : 04-06-2026
